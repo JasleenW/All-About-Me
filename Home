@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+  h1 {
+    color: aliceblue;
+  }
+  body {
+    background: lavender;
+  }
+</style>
+  <head>
+    <title>Jasleen's Webpage</title>
+  </head>
+  <body>
+        <h1>All About Me</h1>
+  </body>
+</html>
